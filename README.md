@@ -1,6 +1,6 @@
 Trabalhos de Visão Computacional:
 
-1) Gerar o gráfico das principais funções vistas e suas transformadas de Fourier (em PDF)
+1) Gerar o gráfico das principais funções vistas em aula (retangular, triangular, Gaussiana, função impulso, função pente, diferenciação, combinação linear, escala) e suas transformadas de Fourier. 
 
 2) Verificar o erro das câmeras de voces:
 a) Calcular a média, o desvio padrão e a variância, para 20 amostragens (3 bandas e média das 3);
